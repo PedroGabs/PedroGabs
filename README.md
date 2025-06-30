@@ -97,3 +97,14 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarK69f&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&langs_count=6"
 />
+
+<br>
+<br>
+
+---
+
+<img 
+      src="https://i.imgur.com/iUfnfGF.gif"
+      align="left"
+      width="90px"
+/>
