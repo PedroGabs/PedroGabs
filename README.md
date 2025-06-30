@@ -100,11 +100,14 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
 
 <br>
 <br>
-
----
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <img 
       src="https://i.imgur.com/iUfnfGF.gif"
       align="left"
-      width="90px"
+      width="190px"
 />
