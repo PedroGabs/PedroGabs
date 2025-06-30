@@ -12,7 +12,7 @@ Possuo uma conta no Linkedin que é o "[Pedro Gabriel Castro da Silva](https://w
 **Full-stack developer in progress...**
 
 Hello, my name is Pedro Gabriel, I'm 18 years old and I was born in Bahia, but I live in São Paulo.
-I finished high school with a technical course in Marketing, and I took a course in computer graphics and game development at the Saga School of Arts. I'm currently studying Computer Science at Cruzeiro do Sul. Since I was a child, I've had a passion for technology, video games, etc.
+I finished high school with a technical course in Marketing, and I took a course in computer graphics and game development at the Escola de Artes Saga. I'm currently studying Computer Science at Cruzeiro do Sul. Since I was a child, I've had a passion for technology, video games, etc.
 I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www.linkedin.com/in/pedro-gabriel-castro-da-silva-b7756233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"
 
 <p align="left">
