@@ -77,14 +77,14 @@ Possuo uma conta no Linkedin que é o "[Pedro Gabriel Castro da Silva](https://w
 <img
     align="left"
     alt="GitHub stats"
-    height="200"
+    height="120"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=dark69f&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 <img
     align="left"
     alt="GitHub Languages"
-    height="200"
+    height="120"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarK69f&theme=tokyonight&layout=compact&custom_tittle=Tecnologias&langs_count=6"
 />
