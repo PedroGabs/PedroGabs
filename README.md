@@ -110,4 +110,5 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
       src="https://i.imgur.com/iUfnfGF.gif"
       align="left"
       width="190px"
+      alt="Pinguim dançando"
 />
