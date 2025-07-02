@@ -20,6 +20,9 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DarK69f?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=SEGUIDORES&logoColor=white"/></a>
       <a href="https://github.com/DarK69f?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DarK69f?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <a href="mailto:PedroGCastroS2007@hotmail.com">
+            <img alt="email" title="Me envie um e-mail" src="https://img.shields.io/badge/EMAIL-ME-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
    </p>
 
 ---
