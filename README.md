@@ -4,7 +4,7 @@
 
 Olá, me chamo Pedro Gabriel, tenho 18 anos e sou nascido na Bahia, mas moro em São Paulo.
 Terminei o ensino médio com integração a curso técnico em Marketing, realizei um curso de computação gráfica e desenvolvimento de jogos na Escola de Artes Saga. Atualmente, estou cursando Ciência da Computação na Cruzeiro do Sul. Desde de pequeno tenho uma paixão pela tecnologia, video games e etc.
-Possuo uma conta no Linkedin que é o "[Pedro Gabriel Castro da Silva](https://www.linkedin.com/in/pedro-gabriel-castro-da-silva-b7756233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"
+Possuo uma conta no Linkedin que é o "[Pedro Gabriel Castro da Silva]([https://www.linkedin.com/in/pedro-gabriel-castro-da-silva-b7756233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/pedro-gabriel-castro-da-silva))"
 
 <br>
 
@@ -13,7 +13,7 @@ Possuo uma conta no Linkedin que é o "[Pedro Gabriel Castro da Silva](https://w
 
 Hello, my name is Pedro Gabriel, I'm 18 years old and I was born in Bahia, but I live in São Paulo.
 I finished high school with a technical course in Marketing, and I took a course in computer graphics and game development at the Escola de Artes Saga. I'm currently studying Computer Science at Cruzeiro do Sul. Since I was a child, I've had a passion for technology, video games, etc.
-I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www.linkedin.com/in/pedro-gabriel-castro-da-silva-b7756233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"
+I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva]([https://www.linkedin.com/in/pedro-gabriel-castro-da-silva-b7756233b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/pedro-gabriel-castro-da-silva))"
 
 <p align="left">
       <a href="https://github.com/DarK69f?tab=followers">
