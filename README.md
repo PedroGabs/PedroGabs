@@ -56,6 +56,13 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 /><img
     align="left"
+    alt="PYTHON"
+    title="PYTHON"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+/><img
+    align="left"
     alt="MYSQL"
     title="MYSQL"
     width="30px"
