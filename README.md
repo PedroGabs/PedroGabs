@@ -27,16 +27,16 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
 
 <img
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="Html"
+    title="Html"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
 />
 <img
     align="left"
-    alt="CSS"
-    title="CSS"
+    alt="Css"
+    title="Css"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
@@ -49,15 +49,15 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
 /><img
     align="left"
-    alt="JAVASCRIPT"
-    title="JAVASCRIPT"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 /><img
     align="left"
-    alt="JAVA"
-    title="JAVA"
+    alt="Java"
+    title="Java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
@@ -70,8 +70,8 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
 /><img
     align="left"
-    alt="PYTHON"
-    title="PYTHON"
+    alt="Python"
+    title="Python"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
@@ -84,18 +84,11 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 /><img
     align="left"
-    alt="GIT"
-    title="GIT"
+    alt="Git"
+    title="Git"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/><img
-    align="left"
-    alt="BLENDER"
-    title="BLENDER"
-    width="30px"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg"
 />
 
 <br>
