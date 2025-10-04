@@ -121,7 +121,7 @@ I have a Linkedin account, which is "[Pedro Gabriel Castro da Silva](https://www
 <br>
 
 <img 
-      src="https://i.imgur.com/iUfnfGF.gif"
+      src="[https://i.imgur.com/iUfnfGF.gif](https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyOWV1NG5idzdibzgzaWRsaXZ3Nmszc3NodnI3OTFoZnVvZnJvazQ2bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5CYMSKyER3rfW/200.gif)"
       align="left"
       width="190px"
       alt="Pinguim dançando"
